@@ -6,7 +6,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com)
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5555996781644)
 
-![Guilherme Diechiete GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDiechiete&show_icons=true&theme=github_transparent)
+![Guilherme Diechiete GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDiechiete&show_icons=true&theme=transparent)
 #
 ### Tecnologias
 
@@ -17,7 +17,7 @@
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/docs/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDiechiete&layout=compact&theme=github_transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDiechiete&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
